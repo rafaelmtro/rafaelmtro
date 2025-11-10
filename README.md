@@ -20,7 +20,6 @@ Data Lead and Analyst focused on structuring the foundations for data-driven env
   <img src="https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/-HuggingFace-%23FFD21E?style=flat&logo=hugging-face&logoColor=black" alt="HuggingFace">
   <img src="https://img.shields.io/badge/-LangChain-purple?style=flat&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/-Ollama-purple?style=flat&logoColor=white" alt="Ollama">
   <img src="https://img.shields.io/badge/-Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/-OpenCV-%235C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/-spaCy-%2309A3D5?style=flat&logo=spacy&logoColor=white" alt="spaCy">
