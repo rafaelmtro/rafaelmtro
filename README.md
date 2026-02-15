@@ -8,7 +8,7 @@ Data Lead and Analyst focused on structuring the foundations for data-driven env
 
 ---
 
-### 🛠 Tech & Tools
+### 🛠 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/-Ollama-purple?style=flat&logoColor=white" alt="Ollama">
