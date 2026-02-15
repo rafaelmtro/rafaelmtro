@@ -34,5 +34,5 @@ Data Lead and Analyst focused on structuring the foundations for data-driven env
   <img src="https://img.shields.io/badge/-WebXR-%2361A8F4?style=flat&logo=webxr&logoColor=white" alt="WebXR">
   <img src="https://img.shields.io/badge/-MindAR-green?style=flat&logoColor=white" alt="MindAR">
   <img src="https://img.shields.io/badge/-Unity-black?style=flat&logo=Unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/-Warp-%2300D8C8?style=flat&logo=warp&logoColor=white" alt="Warp">
+  <img src="https://img.shields.io/badge/-Deepnote-%233071E1?style=flat&logo=deepnote&logoColor=white" alt="Deepnote">
 </p>
