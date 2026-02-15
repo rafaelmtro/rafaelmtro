@@ -30,6 +30,7 @@ Data Lead and Analyst focused on structuring the foundations for data-driven env
   <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-Next.js-%23000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/-Flutter-%2302569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/-Swift-%23F05138?style=flat&logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/-Three.js-%232F2F2F?style=flat&logo=three.js&logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/-WebXR-%2361A8F4?style=flat&logo=webxr&logoColor=white" alt="WebXR">
   <img src="https://img.shields.io/badge/-MindAR-green?style=flat&logoColor=white" alt="MindAR">
