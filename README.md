@@ -1,4 +1,4 @@
-**`Data Lead & AI Systems Engineer`**
+**`Data Lead & AI Engineer`**
 
 Data Lead and Analyst focused on structuring the foundations for data-driven environments. Specializes in engineering and deploying intelligent systems to transform data into action.
 
