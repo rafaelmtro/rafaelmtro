@@ -46,3 +46,9 @@ When I'm working, coding, or diving into analytical tasks, these are the playlis
 
 - [**fine-tuning**](https://music.apple.com/br/playlist/fine-tuning/pl.u-KVXBkP6ILpoR130?l=en)
 - [**overdrive**](https://music.apple.com/br/playlist/overdrive/pl.u-oZylD1pCGmvlq9a?l=en)
+
+---
+
+### 🎮 Fun Fact
+
+When I'm not coding, I'm probably lost in the worlds of **Death Stranding**, **Resident Evil**, or **Silent Hill**. Catch me on PlayStation: **Mabare666**.
