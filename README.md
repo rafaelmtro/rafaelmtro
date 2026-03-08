@@ -45,4 +45,4 @@ Data Lead and Analyst focused on structuring the foundations for data-driven env
 When I'm working, coding, or diving into analytical tasks, these are the playlists that keep me in the zone:
 
 - [**fine-tuning**](https://music.apple.com/br/playlist/fine-tuning/pl.u-KVXBkP6ILpoR130?l=en)
-- [**over-drive**](https://music.apple.com/br/playlist/overdrive/pl.u-oZylD1pCGmvlq9a?l=en)
+- [**overdrive**](https://music.apple.com/br/playlist/overdrive/pl.u-oZylD1pCGmvlq9a?l=en)
