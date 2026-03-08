@@ -51,4 +51,4 @@ When I'm working, coding, or diving into analytical tasks, these are the playlis
 
 ### 🎮 Fun Fact
 
-When I'm not coding, I'm probably lost in the worlds of **Death Stranding**, **Resident Evil**, or **Silent Hill**. Catch me on PlayStation: **Mabare666**.
+When I'm not coding, I'm probably lost in the worlds of **Death Stranding**, **Resident Evil**, or **Silent Hill**. Catch me on PlayStation: [**Mabare666**](https://profile.playstation.com/Mabare666).
