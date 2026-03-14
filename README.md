@@ -2,8 +2,7 @@
 
 Data Lead and Analyst focused on structuring the foundations for data-driven environments. Specializes in engineering and deploying intelligent systems to transform data into action.
 
-- 🤝 &nbsp; **Connect:** [LinkedIn](https://www.linkedin.com/in/rafaelmtro/)
-- 📓 &nbsp; **Gists:** [GitHub Gists](https://gist.github.com/rafaelmtro)
+- 📓 &nbsp; [**Gists**](https://gist.github.com/rafaelmtro)
 - 💬 &nbsp; **Ask me about:** AI, LLMs, Agentic Systems, RAG, GenAI, Data Science, Software Development.
 
 ---
