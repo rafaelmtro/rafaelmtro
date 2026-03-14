@@ -2,10 +2,10 @@
 
 Data Lead and Analyst focused on structuring the foundations for data-driven environments. Specializes in engineering and deploying intelligent systems to transform data into action.
 
+- 💬 &nbsp; **Ask me about:** AI, LLMs, Agentic Systems, GenAI, Data Science, AI Engineering.
+- 📓 &nbsp; **Code Snippets:** [**Gists**](https://gist.github.com/rafaelmtro)
 - 🎵 &nbsp; **Listening to:** [**fine-tuning**](https://music.apple.com/br/playlist/fine-tuning/pl.u-KVXBkP6ILpoR130?l=en) and [**overdrive**](https://music.apple.com/br/playlist/overdrive/pl.u-oZylD1pCGmvlq9a?l=en).
 - 🎮 &nbsp; **Fun Fact:** I'm into Death Stranding, Resident Evil, and Silent Hill. [**Mabare666**](https://profile.playstation.com/Mabare666) on PSN.
-- 📓 &nbsp; **Code Snippets:** [**Gists**](https://gist.github.com/rafaelmtro)
-- 💬 &nbsp; **Ask me about:** AI, LLMs, Agentic Systems, GenAI, Data Science, AI Engineering.
 
 ---
 
