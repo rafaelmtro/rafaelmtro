@@ -2,8 +2,10 @@
 
 Data Lead and Analyst focused on structuring the foundations for data-driven environments. Specializes in engineering and deploying intelligent systems to transform data into action.
 
-- 📓 &nbsp; [**Gists**](https://gist.github.com/rafaelmtro)
-- 💬 &nbsp; **Ask me about:** AI, LLMs, Agentic Systems, RAG, GenAI, Data Science, Software Development.
+- 🎵 &nbsp; **Listening to:** [**fine-tuning**](https://music.apple.com/br/playlist/fine-tuning/pl.u-KVXBkP6ILpoR130?l=en) and [**overdrive**](https://music.apple.com/br/playlist/overdrive/pl.u-oZylD1pCGmvlq9a?l=en).
+- 🎮 &nbsp; **Fun Fact:** I'm into Death Stranding, Resident Evil, and Silent Hill. [**Mabare666**](https://profile.playstation.com/Mabare666) on PSN.
+- 📓 &nbsp; **Code Snippets:** [**Gists**](https://gist.github.com/rafaelmtro)
+- 💬 &nbsp; **Ask me about:** AI, LLMs, Agentic Systems, GenAI, Data Science, AI Engineering.
 
 ---
 
@@ -35,18 +37,3 @@ Data Lead and Analyst focused on structuring the foundations for data-driven env
   <img src="https://img.shields.io/badge/-MindAR-green?style=flat&logoColor=white" alt="MindAR">
   <img src="https://img.shields.io/badge/-Unity-black?style=flat&logo=Unity&logoColor=white" alt="Unity">
 </p>
-
----
-
-### 🎵 Listening
-
-When I'm working, coding, or diving into analytical tasks, these are the playlists that keep me in the zone:
-
-- [**fine-tuning**](https://music.apple.com/br/playlist/fine-tuning/pl.u-KVXBkP6ILpoR130?l=en)
-- [**overdrive**](https://music.apple.com/br/playlist/overdrive/pl.u-oZylD1pCGmvlq9a?l=en)
-
----
-
-### 🎮 Fun Fact
-
-When I'm not coding, I'm probably lost in the worlds of **Death Stranding**, **Resident Evil**, or **Silent Hill**. Catch me on PlayStation: [**Mabare666**](https://profile.playstation.com/Mabare666).
