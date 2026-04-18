@@ -4,6 +4,8 @@ Data Lead and Analyst focused on structuring the foundations for data-driven env
 
 - 💬 &nbsp; **Ask me about:** AI, LLMs, Agentic Systems, GenAI, Data Science, AI Engineering.
 - 📓 &nbsp; **Code Snippets:** [**Gists**](https://gist.github.com/rafaelmtro)
+- 📊 &nbsp; **Kaggle:** [**cyraxy**](https://kaggle.com/cyraxy)
+- ⚔️ &nbsp; **Codewars:** [**rafaelmtro**](https://www.codewars.com/users/rafaelmtro)
 - 🎵 &nbsp; **Favorite OSTs:** Check out my [**playlists**](https://music.apple.com/profile/rafaelmtro).
 
 ---
